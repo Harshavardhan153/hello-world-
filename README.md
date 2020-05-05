@@ -1,4 +1,3 @@
 # hello-world-
-just a repository
-only once fasak
-jai balayya
+
+creating a basic web app hello world
